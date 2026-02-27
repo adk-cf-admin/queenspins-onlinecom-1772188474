@@ -1,0 +1,19 @@
+{
+  "name": "Queenspins",
+  "short_name": "Queenspins",
+  "theme_color": "",
+  "background_color": "#12111D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1772187900-favicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
